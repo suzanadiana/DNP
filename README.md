@@ -1,2 +1,4 @@
 # DNP
-C# exercises from the DNP course
+Welcome! 
+
+Here you can find exercises from the DNP course using C# 
