@@ -37,3 +37,4 @@
 /Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/WebAPI/obj/Debug/net7.0/WebAPI.pdb
 /Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/WebAPI/obj/Debug/net7.0/WebAPI.genruntimeconfig.cache
 /Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/WebAPI/obj/Debug/net7.0/ref/WebAPI.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/WebAPI/bin/Debug/net7.0/data.json
