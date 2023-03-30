@@ -1,0 +1,17 @@
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/bin/Debug/net7.0/FileData.deps.json
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/bin/Debug/net7.0/FileData.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/bin/Debug/net7.0/FileData.pdb
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/bin/Debug/net7.0/Application.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/bin/Debug/net7.0/Domain.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/bin/Debug/net7.0/Application.pdb
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/bin/Debug/net7.0/Domain.pdb
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/FileData.csproj.AssemblyReference.cache
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/FileData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/FileData.AssemblyInfoInputs.cache
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/FileData.AssemblyInfo.cs
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/FileData.csproj.CoreCompileInputs.cache
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/FileData.csproj.CopyComplete
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/FileData.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/refint/FileData.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/FileData.pdb
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/Debug/net7.0/ref/FileData.dll
