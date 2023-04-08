@@ -27,6 +27,14 @@
       "eMail": "gabi123@gmail.com",
       "phoneNumber": "12121212",
       "passWord": "gabi"
+    },
+    {
+      "Id": 5,
+      "UserName": "string",
+      "eMail": "string",
+      "phoneNumber": "string",
+      "passWord": "string"
     }
-  ]
+  ],
+  "Posts": null
 }

@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/WebAPI/WebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/Application.csproj",
+        "packagesPath": "/Users/dianasuzana/.nuget/packages/",
+        "outputPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dianasuzana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/Domain.csproj": {
+                "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/Domain.csproj",
+        "packagesPath": "/Users/dianasuzana/.nuget/packages/",
+        "outputPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dianasuzana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/FileData/FileData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/FileData/FileData.csproj",
+        "projectName": "FileData",
+        "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/FileData/FileData.csproj",
+        "packagesPath": "/Users/dianasuzana/.nuget/packages/",
+        "outputPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/FileData/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dianasuzana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/Application.csproj": {
+                "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/Application.csproj"
+              },
+              "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/Domain.csproj": {
+                "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/WebAPI/WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/WebAPI/WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/WebAPI/WebAPI.csproj",
+        "packagesPath": "/Users/dianasuzana/.nuget/packages/",
+        "outputPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dianasuzana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/Application.csproj": {
+                "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/Application.csproj"
+              },
+              "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/FileData/FileData.csproj": {
+                "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/FileData/FileData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

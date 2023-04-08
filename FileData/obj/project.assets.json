@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/FileData.csproj",
+      "projectUniqueName": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/FileData/FileData.csproj",
       "projectName": "FileData",
-      "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/FileData.csproj",
+      "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/FileData/FileData.csproj",
       "packagesPath": "/Users/dianasuzana/.nuget/packages/",
-      "outputPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/FileData/obj/",
+      "outputPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/FileData/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dianasuzana/.nuget/NuGet/NuGet.Config"
@@ -70,11 +70,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/Application/Application.csproj": {
-              "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/Application/Application.csproj"
+            "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/Application.csproj": {
+              "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Application/Application.csproj"
             },
-            "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/Domain/Domain.csproj": {
-              "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/Domain/Domain.csproj"
+            "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/Domain.csproj": {
+              "projectPath": "/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/Domain.csproj"
             }
           }
         }

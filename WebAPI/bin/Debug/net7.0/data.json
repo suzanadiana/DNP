@@ -20,6 +20,21 @@
       "eMail": null,
       "phoneNumber": null,
       "passWord": null
+    },
+    {
+      "Id": 4,
+      "UserName": "Gabi",
+      "eMail": "gabi123@gmail.com",
+      "phoneNumber": "12121212",
+      "passWord": "gabi"
+    },
+    {
+      "Id": 5,
+      "UserName": "string",
+      "eMail": "string",
+      "phoneNumber": "string",
+      "passWord": "string"
     }
-  ]
+  ],
+  "Posts": null
 }

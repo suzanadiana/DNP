@@ -10,3 +10,15 @@
 /Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/Domain/obj/Debug/net7.0/refint/Domain.dll
 /Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/Domain/obj/Debug/net7.0/Domain.pdb
 /Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment1/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/bin/Debug/net7.0/Domain.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/Debug/net7.0/Domain.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/dianasuzana/Library/Mobile Documents/com~apple~CloudDocs/software/dnp/DNP-Assignment/Domain/obj/Debug/net7.0/ref/Domain.dll
